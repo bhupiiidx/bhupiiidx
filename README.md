@@ -32,7 +32,7 @@ I am a 👨‍💻 **UX/UI Developer** working with **[Skilledanswers Infosoluti
 
 <br />
 
-![Languages and Tools](https://img.shields.io/badge/-Languages%20%26%Tools%20-informational)
+### ![Languages and Tools](https://img.shields.io/badge/-Languages%20and%20Tools-informational)
 
 <p align="left" style="margin-top:10px;"> 
  <a href="https://www.figma.com/" target="_blank"> <img style="padding-right:15px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
