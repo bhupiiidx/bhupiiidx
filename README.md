@@ -9,7 +9,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Bhupiiidx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBhupiiidx&screen_name=Bhupiiidx)
 
-I am a 👨‍💻 **UX/UI Developer** working with **[Skilledanswers Infosolutions Private Limited](https://skilledanswers.com/)**. I am interested in **ReactJs** and **NodeJs**. I like to play games, right now I am working for **Paiinternational**, **Sangeetha Mobiles** and **BIAN**.
+I am a 👨‍💻 **UX/UI Developer** working with **[Infosys Limited](https://infosys.com/)** as Associate Buisness Analyst. I am interested in **MERN STACK**.
 
 ## 📫 How to reach me
 
@@ -31,6 +31,21 @@ I am a 👨‍💻 **UX/UI Developer** working with **[Skilledanswers Infosoluti
 - ⚡ Fun fact: I love to play basketball
 
 <br />
+
+### ![Projects](https://img.shields.io/badge/-Higlighted%20Projects%20-informational)
+
+<p align="left" style="margin-top:10px;">
+ <a href="https://mibook.com/" target="_blank"><img style="padding-right:15px;" alt="Mibook" title="Develop Admin Dashboard as UI Developer" width="40" height="40" src="https://github.com/bhupiiidx/assests/blob/main/image/projects/organisation/mibook_icon_large.png?raw=true" /></a>
+ <a href="https://paiinternational.in/" target="_blank"><img style="padding-right:15px;" alt="Paiinternational"  title="Develop ecommerce platform from scratch as UX/UI Developer" width="40" height="40" src="https://github.com/bhupiiidx/assests/blob/main/image/projects/organisation/paiinternational_logo_large.png?raw=true](https://github.com/bhupiiidx/assests/blob/main/image/projects/organisation/paiinternational_logo_large.png?raw=true" /></a>
+ <a href="https://www.sangeethamobiles.com/" target="_blank"><img style="padding-right:15px;" alt="Sangeetha Mobiles" title="Develop ecommerce platform from scratch as UX/UI Developer" width="40" height="40" src="https://github.com/bhupiiidx/assests/blob/main/image/projects/organisation/sangeetha.jpeg?raw=true](https://github.com/bhupiiidx/assests/blob/main/image/projects/organisation/paiinternational_logo_large.png?raw=true" /></a>
+</p>
+
+### ![Experience](https://img.shields.io/badge/-Experiences%20-informational)
+
+<p align="left" style="margin-top:10px;">
+ <a href="https://skilledanswers.com/" target="_blank"><img  alt="Skilledanswers" title="2 years of experience from August 2020 to August 2022" width="200" height="40" src="https://github.com/bhupiiidx/assests/blob/main/image/worked_organisation/skilledanswers_logo.png?raw=true" /></a>
+ <a href="https://www.infosys.com/" target="_blank"><img     alt="Infosys"        title="Present Employer and joined Infosys in August 2022"    width="60"  height="40" src="https://github.com/bhupiiidx/assests/blob/main/image/worked_organisation/infosys_logo.jpeg?raw=true" /></a>
+</p>
 
 ### ![Languages and Tools](https://img.shields.io/badge/-Languages%20and%20Tools-informational)
 
