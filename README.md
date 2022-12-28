@@ -29,9 +29,7 @@ I am a 👨‍💻 **UX/UI Developer** working with **[Infosys Limited](https://
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and backend
 - ⚡ Fun fact: I love to play basketball
-
 <br />
-
 ### ![Projects](https://img.shields.io/badge/-Higlighted%20Projects%20-informational)
 
 <p align="left" style="margin-top:10px;">
