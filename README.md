@@ -27,7 +27,7 @@ I am a 👨‍💻 **UX/UI Developer** working with **[Infosys Limited](https://
 ### I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3 and backend
+- 🥅 2023 Goals: Learn more about web3 and backend
 - ⚡ Fun fact: I love to play basketball
 
 <br />
